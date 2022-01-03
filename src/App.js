@@ -6,7 +6,7 @@ function App() {
   const sec2 = ["", "Mobile Manufacturers", "Samsung", "HTC", "Micromax", "Apple"];
   return (
     <div style={{margin : "20px"}}>
-     <Makesec sec1 = {sec1} sec2={sec2}/>
+     <Makesec sec1 = {sec1} sec2 = {sec2}/>
     </div>
   );
 }
